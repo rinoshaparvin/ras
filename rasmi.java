@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.*;
-public class ras
+public class rasmi
 {
 public static void main(String args[])
 {
